@@ -17,9 +17,9 @@ This portfolio highlights several of my full-stack and front-end development pro
 3. **AMAYA (Coffee Shop):** A fully responsive, mobile-first web interface featuring dynamic client-side filtering and interactive menus built with HTML5, CSS3, Bootstrap, and JavaScript.
 
 ## 🏆 Achievements
-* **Bachelor of Science in Computer Science** (Current GPA: 3.4)
+* **Bachelor of Science in Computer Science** (Current GPA: 3.5)
 * **NTI Web Developer Certificate:** Mastered responsive web design, React, and advanced UI/UX principles.
-* **CS50 Completion:** Built a strong foundation in computer science fundamentals, algorithms, and programming
+* **CS50 Completion:** Built a strong foundation in computer science fundamentals, algorithms, and programming.
 
 ## ⚙️ How to Run Locally
 This portfolio is built using standard web technologies. No complex build processes are required to view the site.
@@ -29,7 +29,6 @@ This portfolio is built using standard web technologies. No complex build proces
 
 ## 📫 Contact
 * **Email:** ziada.elshenawy@gmail.com
-* **phone** +201025899677
 * **Location:** Cairo, Egypt
 
 ---
