@@ -29,6 +29,7 @@ This portfolio is built using standard web technologies. No complex build proces
 
 ## 📫 Contact
 * **Email:** ziada.elshenawy@gmail.com
+* * **Phone:**+201025899677
 * **Location:** Cairo, Egypt
 
 ---
