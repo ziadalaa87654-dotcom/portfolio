@@ -3,7 +3,7 @@
 A modern, responsive personal portfolio website showcasing my software engineering projects, technical skills, and academic achievements. I build the logic of applications from the ground up, combining robust backend architecture with user-centric interface design. 
 
 ## 🚀 About Me
-I am a Software Engineer based in Cairo, Egypt. Currently holding a 3.4 GPA in Computer Science, I specialize in blending logic, structure, and design to transform complex problems into scalable digital solutions. 
+I am a Software Engineer based in Cairo, Egypt. Currently holding a 3.5 GPA in Computer Science, I specialize in blending logic, structure, and design to transform complex problems into scalable digital solutions. 
 
 ## 🛠️ Tech Stack & Skills
 * **Languages & Frameworks:** React, JavaScript, Python, Flask, Node.js, HTML, CSS, Bootstrap, C++, Assembly.
@@ -19,8 +19,7 @@ This portfolio highlights several of my full-stack and front-end development pro
 ## 🏆 Achievements
 * **Bachelor of Science in Computer Science** (Current GPA: 3.4)
 * **NTI Web Developer Certificate:** Mastered responsive web design, React, and advanced UI/UX principles.
-* **CS50 Completion:** Built a strong foundation in computer science fundamentals, algorithms, and programming.
-* **Google Developer Student Club (GDSC):** Active member collaborating on tech projects.
+* **CS50 Completion:** Built a strong foundation in computer science fundamentals, algorithms, and programming
 
 ## ⚙️ How to Run Locally
 This portfolio is built using standard web technologies. No complex build processes are required to view the site.
@@ -30,6 +29,7 @@ This portfolio is built using standard web technologies. No complex build proces
 
 ## 📫 Contact
 * **Email:** ziada.elshenawy@gmail.com
+* **phone** +201025899677
 * **Location:** Cairo, Egypt
 
 ---
